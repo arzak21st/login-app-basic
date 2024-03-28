@@ -1,0 +1,4 @@
+- Replace '#acb5f6' (light-purple) with '#f6acac' (light-red) 
+- Replace '#6777ef' (purple) with '#f66767' (red)
+- Replace '#394eea' (dark-purple) with '#f63939' (dark-red)
+- Replace '#95a0f4' (light-purple) with '#f69595' (light-red)
